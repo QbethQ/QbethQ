@@ -1,2 +1,6 @@
 # Yuhan Song
-Undergrad student,  Peking University,  2019-2023.
+Undergraduate student,  Peking University,  2019-2023.
+
+Email: songyuhan@pku.edu.cn
+
+Now interested in natural language processing (NLP).
